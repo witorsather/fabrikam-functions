@@ -1,4 +1,4 @@
-# Quickstart: Creating a Java Function in Azure from the Command Line
+# Quickstart: Creating a Java Function Triggered by HTTP Request in Azure from the Command Line
 
 ## Introduction
 This guide helps you make a Java function using command-line tools that respond to web requests. You'll test the code on your computer before putting it on Azure Functions, where it runs without needing a server.
